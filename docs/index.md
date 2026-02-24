@@ -4,7 +4,7 @@ This is an **Android app**[^1] to stream audio for selected verses from the [*Ne
 
 You create playlists by typing, pasting or importing text that contains scripture references. The text is parsed and only valid scriptures are added to the playlist, ranging from single verses to whole chapters.
 
-The same playlist can be played in any of the available languages: Danish, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Spanish, or Ukrainian. Scripture parsing (for playlist generation) can also handle all these languages as input.
+The same playlist can be played in any of the available languages: **Danish, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Spanish, or Ukrainian**. Scripture parsing (for playlist generation) can also handle all these languages as input.
 
 Playlists can be saved or shared as simple text files and imported on another device.
 
@@ -56,7 +56,7 @@ By using this software you agree to abide by the terms of its [License](https://
 
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/nwtReactor-app/issues).
 
-My other Android apps: [**jwlFission**](https://github.com/erykjj/jwlFission-app] & [**jwlFusion**](https://github.com/erykjj/jwlFusion-app)
+My other Android apps: [**jwlFission**](https://github.com/erykjj/jwlFission-app) & [**jwlFusion**](https://github.com/erykjj/jwlFusion-app)
 
 ____
 #### Footnotes:
