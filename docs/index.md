@@ -1,5 +1,7 @@
 # <img src="res/nwtReactor.png" width=35> nwtReactor App
 
+Have you ever wanted to **listen to selected verses** from the Bible, or make a playlist of favorite chapters?
+
 This is an **Android app**[^1] to stream audio for selected verses from the [*New World Translation* Bible](https://www.jw.org/en/library/bible/study-bible/books/)[^2].
 
 You create playlists by typing, pasting or importing text that contains scripture references. The text is parsed and only valid scriptures are added to the playlist, ranging from single verses to whole chapters.
@@ -7,6 +9,8 @@ You create playlists by typing, pasting or importing text that contains scriptur
 The same playlist can be played in any of the available languages: **Danish, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Spanish, or Ukrainian**. Scripture parsing (for playlist generation) can also handle all these languages as input.
 
 Playlists can be saved or shared as simple text files and imported on another device.
+
+**NOTE**: *nwtReactor* requires INTERNET access because the audio is streamed via the *jw.org* API (as is done by a browser). Tracks/segments are cached to reduce bandwidth and server load.
 
 <details>
 <summary>Preview…</summary><br/>
