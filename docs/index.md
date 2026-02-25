@@ -53,8 +53,7 @@ Playlists can be saved or shared as simple text files and imported on another de
 </details><br/>
 
 ____
-[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/nwtReactor-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-nwtReactor%20App-white?style=plastic&logo=GitHub&color=black)
- ](https://erykjj.github.io/nwtReactor-app) [<img src="res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.nwtReactor.android)
+[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/nwtReactor-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-nwtReactor%20App-white?style=plastic&logo=GitHub&color=black)](https://erykjj.github.io/nwtReactor-app)
 
 By using this software you agree to abide by the terms of its [License](https://github.com/erykjj/nwtReactor-app#License-1-ov-file).
 
