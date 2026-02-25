@@ -2,7 +2,7 @@
 
 Have you ever wanted to **listen to selected verses** from the Bible, or make a playlist of favorite chapters?
 
-This is an **Android app**[^1] to stream audio for selected verses from the [*New World Translation* Bible](https://www.jw.org/en/library/bible/study-bible/books/)[^2].
+This is an **Android app**[^1] to stream audio for selected verses from the [*New World Translation of the Holy Scriptures*](https://www.jw.org/en/library/bible/study-bible/books/)[^2].
 
 You create playlists by typing, pasting or importing text that contains scripture references. The text is parsed and only valid scriptures are added to the playlist, ranging from single verses to whole chapters.
 
