@@ -12,7 +12,7 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 **NOTE**: *nwtReactor* requires INTERNET access because the audio is streamed via the *jw.org* API (as is done by a browser). Tracks/segments are cached to reduce bandwidth and server load.
 
-**Latest release**: 
+**Latest release**: COMING SOON
 
 <details>
 <summary>Preview…</summary><br/>
