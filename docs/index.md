@@ -19,14 +19,11 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 </details><br/>
 
-<details>
-<summary>How to use…</summary><br/>
+### How to use…
 
 <img src="res/loop_off.png" width=20> <img src="res/loop_on.png" width=20> toggle loop: if enabled, will play current playlist over and over
 
-
 <img src="res/continue_off.png" width=20> <img src="res/continue_on.png" width=20> toggle continue: if enabled, will play next list after current finishes
-
 
 <img src="res/shuffle_off.png" width=20> <img src="res/shuffle_on.png" width=20> toggle shuffle: will play tracks in random order (playlists don't shuffle)
 
@@ -51,8 +48,6 @@ Playlists can be saved or shared as simple text files and imported on another de
 <img src="res/share_playlist.png" width=20> share playlist
 
 <img src="res/delete_playlist.png" width=20> delete playlist
-
-</details><br/>
 
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/nwtReactor-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-nwtReactor%20App-white?style=plastic&logo=GitHub&color=black)](https://erykjj.github.io/nwtReactor-app)
