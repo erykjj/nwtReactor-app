@@ -15,7 +15,7 @@ Playlists can be saved or shared as simple text files and imported on another de
 <details>
 <summary>Preview…</summary><br/>
 
-![preview](res/nwtReactor.gif)
+<img src="res/nwtReactor.gif">
 
 </details><br/>
 
@@ -24,7 +24,9 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 <img src="res/loop_off.png" width=20> <img src="res/loop_on.png" width=20> toggle loop: if enabled, will play current playlist over and over
 
+
 <img src="res/continue_off.png" width=20> <img src="res/continue_on.png" width=20> toggle continue: if enabled, will play next list after current finishes
+
 
 <img src="res/shuffle_off.png" width=20> <img src="res/shuffle_on.png" width=20> toggle shuffle: will play tracks in random order (playlists don't shuffle)
 
