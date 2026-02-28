@@ -52,6 +52,10 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 <img src="docs/res/delete_playlist.png" width=20> delete playlist
 
+Press the `Accept` button when you are done modifying or creating a playlist to save the changes.
+
+Select your playlist/track using the previous/next buttons or from the navigation box.
+
 </details><br/>
 
 ____
