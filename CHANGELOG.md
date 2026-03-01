@@ -6,9 +6,12 @@
 
 ### Changed
 
-- Change `Accept` to  `Save`
+- Changed `Accept` to  `Save`
+- Queue new/modified playlist if no other one is playing
 
 ### Fixed
+
+- Fixed font color in notification in dark mode
 
 ### Removed
 
