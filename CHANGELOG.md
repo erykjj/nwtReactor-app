@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## v0.9.5 - 2026-03-02
+### Added
+
+- Remove duplicate tracks when generating
+
 ## v0.9.4 - 2026-03-01
 ### Added
 
