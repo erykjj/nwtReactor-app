@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added character limit for playlist generation, and counter
+
 ### Changed
 
 ### Fixed
