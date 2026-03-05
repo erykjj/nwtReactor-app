@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Enable Generate button when language changes
+
 ### Fixed
 
 ### Removed
