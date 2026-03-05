@@ -6,13 +6,16 @@
 
 ### Changed
 
-- Enable Generate button when language changes
-
 ### Fixed
 
 ### Removed
 
 ____
+## v0.9.6 - 2026-03-05
+### Changed
+
+- Enable playlist re-generation when language changes
+
 ## v0.9.5 - 2026-03-02
 ### Added
 
