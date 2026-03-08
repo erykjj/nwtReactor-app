@@ -11,10 +11,12 @@
 ### Removed
 
 ____
-## v0.10.2 - 2026-03-08
+## v0.11.0 - 2026-03-08
 ### Changed
 
+- Added Memorial playlists
 - Improved caching
+- Adjusted icon
 
 ## v0.10.1 - 2026-03-08
 ### Changed
