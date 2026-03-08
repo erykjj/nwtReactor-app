@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## v0.10.0 - 2026-03-07
+### Added
+
+- Added my linkture scripture parser library
+
 ## v0.9.6 - 2026-03-05
 ### Changed
 
