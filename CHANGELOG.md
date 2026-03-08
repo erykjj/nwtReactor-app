@@ -4,6 +4,8 @@
 
 ### Added
 
+- Restore default playlists option in playlist manager screen (three-dot overflow menu)
+
 ### Changed
 
 ### Fixed
