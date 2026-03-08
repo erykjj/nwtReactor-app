@@ -11,6 +11,16 @@
 ### Removed
 
 ____
+## v0.10.2 - 2026-03-08
+### Changed
+
+- Improved caching
+
+## v0.10.1 - 2026-03-08
+### Changed
+
+- Adjusted button label font size
+
 ## v0.10.0 - 2026-03-07
 ### Added
 
