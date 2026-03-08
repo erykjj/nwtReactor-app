@@ -4,8 +4,6 @@
 
 ### Added
 
-- Restore default playlists option in playlist manager screen (three-dot overflow menu)
-
 ### Changed
 
 ### Fixed
@@ -13,6 +11,11 @@
 ### Removed
 
 ____
+## v0.12.0 - 2026-03-08
+### Added
+
+- Restore default playlists option in playlist manager screen (three-dot overflow menu)
+
 ## v0.11.0 - 2026-03-08
 ### Changed
 
