@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added option to delete generated track (long-press on any of the generated tracks and tap the 'X' that apppears on the right)
+
 ### Changed
 
 ### Fixed
