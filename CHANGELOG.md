@@ -4,6 +4,16 @@
 
 ### Added
 
+### Changed
+
+### Fixed
+
+### Removed
+
+____
+## v0.13.0 - 2026-03-09
+### Added
+
 - Added option to delete generated track (long-press on any of the generated tracks and tap the 'X' that apppears on the right)
 
 ### Changed
@@ -11,11 +21,6 @@
 - Polish up UI
 - More contrast in app icon
 
-### Fixed
-
-### Removed
-
-____
 ## v0.12.0 - 2026-03-08
 ### Added
 
