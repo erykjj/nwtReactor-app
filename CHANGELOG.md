@@ -8,6 +8,9 @@
 
 ### Changed
 
+- Polish up UI
+- More contrast in app icon
+
 ### Fixed
 
 ### Removed
