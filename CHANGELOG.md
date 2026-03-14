@@ -11,6 +11,16 @@
 ### Removed
 
 ____
+## v0.14.0 - 2026-03-14
+### Added
+
+- Added track/playlist duration display
+- Added play progress bar
+
+### Changed
+
+- Improved Memorial playlists
+
 ## v0.13.0 - 2026-03-09
 ### Added
 
