@@ -8,7 +8,7 @@ You create playlists by typing, pasting or importing text that contains scriptur
 
 The same playlist can be played in any of the available languages: **Danish, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Spanish, or Ukrainian**. Scripture parsing (for playlist generation) can also handle all these languages as input.
 
-Playlists can be saved or shared as simple text files and imported on another device. And default playlists can be restored.
+Playlists can be saved or shared as simple text files and imported on another device.
 
 **NOTE**: *nwtReactor* requires INTERNET access because the audio is streamed via the *jw.org* API (as is done by a browser). Tracks/segments are cached to reduce bandwidth and server load.
 
