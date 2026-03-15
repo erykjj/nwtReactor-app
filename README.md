@@ -12,7 +12,7 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 **NOTE**: *nwtReactor* requires INTERNET access because the audio is streamed via the *jw.org* API (as is done by a browser). Tracks/segments are cached to reduce bandwidth and server load.
 
-**Latest release**: send me your email to add to the Play Store beta-testing list
+**Latest release**: [nwtReactor_v1.0.0.apk](https://github.com/erykjj/nwtReactor-app/releases/download/v1.0.0/nwtReactor_v1.0.0.apk)
 
 <details>
 <summary>Preview…</summary><br/>
