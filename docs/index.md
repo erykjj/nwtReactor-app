@@ -4,7 +4,7 @@ Have you ever wanted to **listen to selected verses** from the Bible, or make a 
 
 This is an **Android app**[^1] to stream audio for selected verses from the [*New World Translation of the Holy Scriptures*](https://www.jw.org/en/library/bible/study-bible/books/)[^2].
 
-You create playlists by typing, pasting or importing text that contains scripture references (up to 15,000 characters - so you should be able to paste in a whole article). When you press `Generate`, the text is parsed and only valid scriptures are added to the playlist, ranging from single verses to whole chapters. You can force the parser to process a reference by placing it inside '\{{' and '}\}'. For example, if you *really* want all the 150 chapters of Psalms, put this in the scripture references box: \{{Psalms}\} (for English). You can delete a generated track by long-pressing it.
+You create playlists by typing, pasting or importing text that contains scripture references (up to 15,000 characters - so you should be able to paste in a whole article). When you press `Generate`, the text is parsed and only valid scriptures are added to the playlist, ranging from single verses to whole chapters. You can force the parser to process a reference by placing it inside `{{\` and `}}\`. For example, if you *really* want all the 150 chapters of Psalms, put this in the scripture references box: `{{Psalms}}\` (for English). You can delete a generated track by long-pressing it.
 
 The same playlist can be played in any of the available languages: **Danish, Dutch, English, French, German, Italian, Korean, Polish, Portuguese, Spanish, or Ukrainian**. Scripture parsing (for playlist generation) can also handle all these languages as input.
 
