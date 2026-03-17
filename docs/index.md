@@ -54,7 +54,7 @@ Press the `Save` button when you are done modifying or creating a playlist to sa
 Select your playlist/track using the previous/next buttons or from the navigation box.
 
 ____
-[![Static Badge](https://img.shields.io/badge/GitHub-nwtReactor--app-white?style=plastic&logo=GitHub&color=black)](https://github.com/erykjj/nwtReactor-app) [<img src="docs/res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.nwtreactor.android)
+[![Static Badge](https://img.shields.io/badge/GitHub-nwtReactor--app-white?style=plastic&logo=GitHub&color=black)](https://github.com/erykjj/nwtReactor-app) [<img src="res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.nwtreactor.android)
 
 By using this software you agree to abide by the terms of its [License](LICENSE.txt).
 
