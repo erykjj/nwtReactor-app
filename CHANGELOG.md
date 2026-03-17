@@ -13,7 +13,7 @@
 ____
 ## v1.0.0 - 2026-03-15
 
-- First official production release
+- First official/production release
 
 ## v0.14.0 - 2026-03-14
 ### Added
