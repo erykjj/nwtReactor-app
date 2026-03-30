@@ -6,7 +6,12 @@
 
 ### Changed
 
+- Updated system libs
+- Updated liblinkturecore lib
+
 ### Fixed
+
+- Set limit on playlist titles to prevent overflow
 
 ### Removed
 
