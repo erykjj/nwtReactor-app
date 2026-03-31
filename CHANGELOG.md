@@ -4,7 +4,11 @@
 
 ### Added
 
+- Added **Swedish**
+
 ### Changed
+
+- Corrected mappings where sources had errors
 
 ### Fixed
 
