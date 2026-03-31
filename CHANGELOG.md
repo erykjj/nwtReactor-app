@@ -6,16 +6,23 @@
 
 ### Changed
 
+### Fixed
+
+### Removed
+
+____
+## v1.1.0 - 2026-03-31
+### Changed
+
+- Tweaked UI for better contrast
 - Updated system libs
 - Updated liblinkturecore lib
 
 ### Fixed
 
 - Set limit on playlist titles to prevent overflow
+- Small fixes to Memorial playlists (need to "Restore playlists")
 
-### Removed
-
-____
 ## v1.0.0 - 2026-03-15
 
 - First official/production release
@@ -92,4 +99,5 @@ ____
 - Initial Play Store beta-testing release
 
 ____
+[v1.1.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.1.0
 [v1.0.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.0.0
