@@ -9,6 +9,7 @@
 ### Changed
 
 - Corrected mappings where sources had errors
+- Removed Memorial playlists (export them if you wish to keep them)
 
 ### Fixed
 
