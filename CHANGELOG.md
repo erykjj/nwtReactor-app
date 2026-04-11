@@ -4,18 +4,24 @@
 
 ### Added
 
-- Added **Swedish**
-
 ### Changed
-
-- Corrected mappings where sources had errors
-- Removed Memorial playlists (export them if you wish to keep them)
 
 ### Fixed
 
 ### Removed
 
 ____
+## v1.2.0 - 2026-04-11
+### Added
+
+- Added **Swedish**
+
+### Changed
+
+- Corrected mappings where sources had errors
+- Removed Memorial playlists (export them if you wish to keep them)
+- Updated libs
+
 ## v1.1.0 - 2026-03-31
 ### Changed
 
@@ -104,5 +110,6 @@ ____
 - Initial Play Store beta-testing release
 
 ____
+[v1.2.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.1.0
 [v1.0.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.0.0
