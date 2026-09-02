@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## v1.2.1 - 2026-09-02
+### Changed
+
+- Minor tweaks
+
 ## v1.2.0 - 2026-04-11
 ### Added
 
@@ -110,6 +115,7 @@ ____
 - Initial Play Store beta-testing release
 
 ____
+[v1.2.1]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.2.1
 [v1.2.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.1.0
 [v1.0.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.0.0
