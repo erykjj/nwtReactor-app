@@ -12,7 +12,7 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 **NOTE**: *nwtReactor* requires INTERNET access because the audio is streamed via the *jw.org* API (as is done by a browser). Tracks/segments are cached to reduce bandwidth and server load.
 
-**Latest release**: [nwtReactor_v1.2.1.apk](https://github.com/erykjj/nwtReactor-app/releases/download/v1.2.1/nwtReactor_v1.2.1.apk)
+**Latest release**: [nwtReactor_v2.0.0.apk](https://github.com/erykjj/nwtReactor-app/releases/download/v2.0.0/nwtReactor_v2.0.0.apk)
 
 <details>
 <summary>Preview…</summary><br/>
@@ -28,7 +28,7 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 <img src="docs/res/continue_off.png" width=20> <img src="docs/res/continue_on.png" width=20> toggle continue: if enabled, will play next list after current finishes
 
-<img src="docs/res/shuffle_off.png" width=20> <img src="docs/res/shuffle_on.png" width=20> toggle shuffle: will play tracks in random order (playlists don't shuffle)
+track playback mode: sequential <img src="docs/res/123.png" width=20> → shuffle <img src="docs/res/shuffle_on.png" width=20> → single <img src="docs/res/one.png" width=20> 
 
 <img src="docs/res/bookmark_off.png" width=20> <img src="docs/res/bookmark_on.png" width=20> each playlist can have one bookmark (position marker); if unset, single tap will set at current track/position; if set, single tap will play from that saved track/position; if set, long-tap will unset/remove
 
