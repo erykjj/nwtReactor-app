@@ -25,7 +25,7 @@ Playlists can be saved or shared as simple text files and imported on another de
 
 <img src="res/continue_off.png" width=20> <img src="res/continue_on.png" width=20> toggle continue: if enabled, will play next list after current finishes
 
-<img src="res/shuffle_off.png" width=20> <img src="res/shuffle_on.png" width=20> toggle shuffle: will play tracks in random order (playlists don't shuffle)
+track playback mode: sequential <img src="res/123.png" width=20> → shuffle <img src="res/shuffle_on.png" width=20> → single <img src="res/one.png" width=20> 
 
 <img src="res/bookmark_off.png" width=20> <img src="res/bookmark_on.png" width=20> each playlist can have one bookmark (position marker); if unset, single tap will set at current track/position; if set, single tap will play from that saved track/position; if set, long-tap will unset/remove
 
