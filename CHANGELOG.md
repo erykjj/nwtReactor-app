@@ -4,7 +4,12 @@
 
 ### Added
 
+- Replaced the shuffle toggle with a three-state button: Sequential (123) → Shuffle (shuffle icon) → Single (1)
+
 ### Changed
+
+- Updated libs
+- Various tweaks and optimizations
 
 ### Fixed
 
