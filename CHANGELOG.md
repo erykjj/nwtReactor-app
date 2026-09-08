@@ -4,6 +4,16 @@
 
 ### Added
 
+### Changed
+
+### Fixed
+
+### Removed
+
+____
+## v2.0.0 - 2026-09-08
+### Added
+
 - Replaced the shuffle toggle with a three-state button: Sequential (123) → Shuffle (shuffle icon) → Single (1)
 
 ### Changed
@@ -11,11 +21,6 @@
 - Updated libs
 - Various tweaks and optimizations
 
-### Fixed
-
-### Removed
-
-____
 ## v1.2.1 - 2026-09-02
 ### Changed
 
@@ -120,6 +125,7 @@ ____
 - Initial Play Store beta-testing release
 
 ____
+[v2.0.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v2.0.0
 [v1.2.1]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.2.1
 [v1.2.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.1.0
