@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## v2.2.0 - 2026-11-03
+### Changed
+
+- Updated scripture parser to v1.2.1
+- Updated libs
+
 ## v2.1.0 - 2026-10-14
 ### Changed
 
@@ -131,6 +137,7 @@ ____
 - Initial Play Store beta-testing release
 
 ____
+[v2.2.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v2.2.0
 [v2.1.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v2.1.0
 [v2.0.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v2.0.0
 [v1.2.1]:https://github.com/erykjj/nwtReactor-app/releases/tag/v1.2.1
