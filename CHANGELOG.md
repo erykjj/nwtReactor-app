@@ -6,7 +6,12 @@
 
 ### Changed
 
+- Improved caching and prefetch
+- Modernized notification controls
+
 ### Fixed
+
+- Fixed occasional crashes on playlist generation
 
 ### Removed
 
