@@ -6,6 +6,14 @@
 
 ### Changed
 
+### Fixed
+
+### Removed
+
+____
+## v3.0.0 - 2026-11-24
+### Changed
+
 - Improved caching and prefetch
 - Modernized notification controls
 
@@ -15,7 +23,8 @@
 
 ### Removed
 
-____
+- Removed unused libs
+
 ## v2.3.0 - 2026-11-18
 ### Changed
 
@@ -149,6 +158,7 @@ ____
 - Initial Play Store beta-testing release
 
 ____
+[v3.0.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v3.0.0
 [v2.3.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v2.3.0
 [v2.2.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v2.2.0
 [v2.1.0]:https://github.com/erykjj/nwtReactor-app/releases/tag/v2.1.0
